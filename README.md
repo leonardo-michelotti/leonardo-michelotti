@@ -30,12 +30,12 @@
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
 </div>
-
+<!--
 ### 🚀 Projects
 - [Project 1](https://github.com/leonardo-michelotti/project1): Descrição breve do projeto.
 - [Project 2](https://github.com/leonardo-michelotti/project2): Descrição breve do projeto.
 - [Project 3](https://github.com/leonardo-michelotti/project3): Descrição breve do projeto.
-
+-->
 ### 🛠️ Tools & Technologies
 - **Languages:** Python, Java, JavaScript, HTML, CSS
 - **Frameworks & Libraries:** React, Flask, Node.js
