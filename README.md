@@ -36,8 +36,4 @@
 - [Project 2](https://github.com/leonardo-michelotti/project2): Descrição breve do projeto.
 - [Project 3](https://github.com/leonardo-michelotti/project3): Descrição breve do projeto.
 -->
-### 🛠️ Tools & Technologies
-- **Languages:** Python, Java, JavaScript, HTML, CSS
-- **Frameworks & Libraries:** React, Flask, Node.js
-- **Tools:** Git, Docker, VS Code
-- **Databases:** MySQL, MongoDB
+
