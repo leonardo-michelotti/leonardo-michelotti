@@ -1,31 +1,43 @@
-### Hi there 👋
+<h2 align="left"> Just trying my best </h2>
 
-<!--
-**leonardo-michelotti/leonardo-michelotti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧠 About Me
+- Passionate about technology and software development.
+- Always learning and improving my skills.
+- Currently working on various projects in Python and Java.
 
-Here are some ideas to get you started:
+### 📫 How to Reach Me
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-michelotti-94810a197/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardodevargasm@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leomichelotti/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
 
----
-
-### :hammer_and_wrench: Languages and Tools :
-
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/> 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=leonardo-michelotti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-michelotti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
----
+###
+
+<h3 align="left">Main Technologies 💻</h3>
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="45" alt="python logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="45" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=js" height="45" alt="javascript logo"  />
+  <img src="https://skillicons.dev/icons?i=html" height="45" alt="html logo"  />
+  <img src="https://skillicons.dev/icons?i=css" height="45" alt="css logo"  />
+  <img src="https://skillicons.dev/icons?i=git" height="45" alt="git logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="45" alt="github logo"  />
+</div>
+
+### 🚀 Projects
+- [Project 1](https://github.com/leonardo-michelotti/project1): Descrição breve do projeto.
+- [Project 2](https://github.com/leonardo-michelotti/project2): Descrição breve do projeto.
+- [Project 3](https://github.com/leonardo-michelotti/project3): Descrição breve do projeto.
+
+### 🛠️ Tools & Technologies
+- **Languages:** Python, Java, JavaScript, HTML, CSS
+- **Frameworks & Libraries:** React, Flask, Node.js
+- **Tools:** Git, Docker, VS Code
+- **Databases:** MySQL, MongoDB
