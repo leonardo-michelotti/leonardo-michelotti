@@ -5,6 +5,7 @@
 - Always learning and improving my skills.
 - Currently working on various projects in Python and Java.
 
+
 ### 📫 How to Reach Me
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardo-michelotti-94810a197/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardodevargasm@gmail.com)
