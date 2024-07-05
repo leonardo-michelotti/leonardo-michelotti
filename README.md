@@ -3,7 +3,7 @@
 ### 🧠 About Me
 - Passionate about technology and software development.
 - Always learning and improving my skills.
-- Currently working on various projects in Python and Java.
+- Currently working on various projects in Python with pandas, Django, and openpyxl.
 
 
 ### 📫 How to Reach Me
