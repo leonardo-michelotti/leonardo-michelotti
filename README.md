@@ -37,8 +37,8 @@ It combines BigQuery, Parquet, dbt, DuckDB, data quality tests, visualization an
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardo-michelotti&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="150" alt="GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardo-michelotti&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leonardo-michelotti&theme=tokyonight" height="150" alt="GitHub statistics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leonardo-michelotti&theme=tokyonight" height="150" alt="Languages by repository" />
 </div>
 
 ## Main Technologies
